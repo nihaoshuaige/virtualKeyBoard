@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/tgtsml.json</file>
+        <file>res/stylesheet.qss</file>
+        <file>res/FontAwesome.otf</file>
+    </qresource>
+</RCC>
